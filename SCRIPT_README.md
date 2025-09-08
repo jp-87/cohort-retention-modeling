@@ -1,7 +1,5 @@
 # Cohort Segmentation Analysis 
 
-## Quick Start
-
 ### Prerequisites
 - R 4.0+ with required packages (see script header)
 - Student enrollment and financial data (see DATA_STRUCTURE.md)
