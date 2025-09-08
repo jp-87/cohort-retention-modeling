@@ -1,6 +1,4 @@
-# Cohort Segmentation Analysis - Publication Ready Script
-
-This repository contains a publication-ready R script for analyzing student cohort progression and net tuition revenue across multiple academic campuses.
+# Cohort Segmentation Analysis 
 
 ## Quick Start
 
@@ -30,22 +28,14 @@ The script uses flexible configuration variables at the top:
 - Customize column mappings for different data sources
 
 ## Features
-
-### ✅ Publication Ready
-- **Portable**: Uses `here::here()` and relative paths
-- **Configurable**: Data file names and paths as variables
-- **Documented**: Full roxygen-style documentation
-- **Flexible**: Handles varying column names and data structures
-- **Quality Assured**: Comprehensive data validation and error handling
-
-### 📊 Analytics Capabilities
+### Analytics Capabilities
 - **Multi-Campus Integration**: Combines data from multiple campuses
 - **Cohort Tracking**: Student progression analysis across terms
 - **Financial Modeling**: Net tuition revenue calculations
 - **Retention Analysis**: Comprehensive retention metrics
 - **Data Quality**: Automated quality assessment and reporting
 
-### 🔧 Technical Features
+### Technical Features
 - **Error Handling**: Graceful handling of missing files and columns
 - **Flexible Matching**: Primary and alternate cross-reference matching
 - **Data Cleaning**: Automated standardization and validation
@@ -125,12 +115,9 @@ The script includes comprehensive error handling:
 
 ## Contributing
 
-This script is designed to be:
-- **Generalizable**: Works with different institutional data structures
+- **Generalizable**: Works with different institutional data structures (with some tweaks)
 - **Maintainable**: Clear documentation and modular design
 - **Extensible**: Easy to add new features or data sources
-
-For improvements or issues, please refer to the roxygen documentation within the script.
 
 ## License
 
