@@ -1,5 +1,5 @@
-# Data Configuration Template
-# Copy this file and customize for your environment
+# FROM Data Configuration Template
+
 
 # This file shows the expected data structure and file naming conventions
 # for the Cohort Segmentation and Net Tuition Revenue Analysis script
